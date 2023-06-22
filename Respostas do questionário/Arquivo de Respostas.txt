@@ -1,0 +1,13 @@
+1. Quais são as entidades necessárias?
+   Empresa Parceira, Tecnologia, Registro de Tecnologia Utilizadae Colaborador.
+
+2. Quais são os principais campos e seus respectivos tipos?
+   ID (inteiro), Nome (string), Endereço (string), Contato (string), Área (string), Cargo (string).
+
+3. Como essas entidades estão relacionadas?
+   Uma Empresa Parceira pode ter vários registros de Tecnologia Utilizada, mas um registro de Tecnologia Utilizada está associado a apenas uma Empresa Parceira.
+   Uma Tecnologia pode estar presente em vários registros de Tecnologia Utilizada, mas um registro de Tecnologia Utilizada está associado a apenas uma Tecnologia.
+   Um Colaborador está associado a uma Empresa Parceira específica por meio do ID da Empresa Parceira.
+
+4. Simule 2 registros para cada entidade.
+   Simulação em imagens no diretório "Simulações" dentro da pasta do projeto.
