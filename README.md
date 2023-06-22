@@ -25,7 +25,7 @@ tecnologias as empresas estão utilizando e uma tabela para cadastro de colabora
 - Cristhian Monteiro (Meu Linkedin)<a href="https://www.linkedin.com/in/cristhian-monteiro/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 
-- Estudande de _Data Analytics_ na Instituição **Resilia Educação**
+- Estudante de _Data Analytics_ na Instituição **Resilia Educação**
 
 - email: _cristhiansousa8@gmail.com_
 
